@@ -1,6 +1,8 @@
 # pypolyfab
 Programatically generate designs for two-dimensional devices. A design for a device will be the Device class which will consist of instances of the Feature class
 
+This is isabel's pypolyfab!
+
 
 ## Device
 A collection of features that form the device design.
